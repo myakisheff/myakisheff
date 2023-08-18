@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</a> 
+<h3 align="center">Computer science student</h3>
+
+🌱 I’m currently learning android development
 
 <!--
 **myakisheff/myakisheff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
