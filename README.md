@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</a> 
+<h1 align="center">Hi there 👋</h1> 
 
 🌱 I’m currently learning android development
 📫 How to reach me: Telegram - @myakishef
